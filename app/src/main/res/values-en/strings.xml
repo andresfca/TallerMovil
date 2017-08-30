@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Workshop</string>
+    <string name="adidas">Adidas</string>
+    <string name="DetallesCompra">Purchase details</string>
+    <string name="cancelar">Delete</string>
+    <string name="cantidad">Quantity</string>
+    <string name="clasico">Classic</string>
+    <string name="empresazxy">Company ZXY</string>
+    <string name="evaluar">Evaluate</string>
+    <string name="femenino">Female</string>
+    <string name="genero">Gender:</string>
+    <string name="marca">Brand:</string>
+    <string name="masculino">Male</string>
+    <string name="nike">Nike</string>
+    <string name="puma">Puma</string>
+    <string name="tipoZapato">Shoe type</string>
+    <string name="valorTotal">Total value</string>
+    <string name="valorUnitario">Unit value</string>
+    <string name="zapatilla">sneakers</string>
+</resources>

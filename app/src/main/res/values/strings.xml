@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TallerClase</string>
+    <string name="empresazxy">Empresa ZXY</string>
+    <string name="genero">Genero:</string>
+        <string-array name="strGenero">
+            <item>@string/masculino</item>
+            <item>@string/femenino</item>
+        </string-array>
+    <string name="tipoZapato">Tipo de zapato:</string>
+        <string-array name="strZapato">
+            <item>@string/zapatilla</item>
+            <item>@string/clasico</item>
+        </string-array>
+    <string name="marca">Marca:</string>
+        <string-array name="strMarca">
+            <item>@string/nike</item>
+            <item>@string/adidas</item>
+            <item>@string/puma</item>
+        </string-array>
+    <string name="cantidad">Digite la cantidad a comprar</string>
+    <string name="cancelar">Borrar</string>
+    <string name="evaluar">Evaluar</string>
+    <string name="DetallesCompra" >Detalles de la compra</string>
+    <string name="valorUnitario">Valor unitario:</string>
+    <string name="valorTotal">Valor total:</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="zapatilla">Zapatilla</string>
+    <string name="clasico">Clasico</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+</resources>
